@@ -1,11 +1,11 @@
 <div align="center">
 
   <!-- BANNER HEADER CON EFECTO ONDULADO Y GRADIENTE OSCURO -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,14,24,30&height=220&section=header&text=Steven%20M.&fontSize=68&fontAlignY=38&desc=Software%20Developer%20%E2%80%A2%20Data%20Structures%20%E2%80%A2%20Systems%20%E2%80%A2%20AI&descAlignY=62&descAlign=50" width="100%" alt="Steven9tp Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,14,24,30&height=220&section=header&text=Cesar%20Carrasco&fontSize=62&fontAlignY=38&desc=Software%20Developer%20%E2%80%A2%20Data%20Structures%20%E2%80%A2%20Systems%20%E2%80%A2%20AI&descAlignY=62&descAlign=50" width="100%" alt="Cesar Carrasco Header"/>
 
   <!-- EFECTO TYPING ANIMADO EN TIEMPO REAL -->
   <a href="https://github.com/steven9tp">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=580&lines=%C2%A1Hola!+Soy+Steven+(%40steven9tp);Computer+Science+%26+Software+Engineering;Dominio+en+C%2B%2B%2C+C%2C+TypeScript+%26+Python;Apasionado+por+Estructuras+de+Datos+y+Algoritmos;Building+modern%2C+fast+%26+scalable+solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=%C2%A1Hola!+Soy+Cesar+Carrasco+(%40steven9tp);Computer+Science+%26+Software+Engineering;Dominio+en+C%2B%2B%2C+C%2C+TypeScript+%26+Python;Apasionado+por+Estructuras+de+Datos+y+Algoritmos;Building+modern%2C+fast+%26+scalable+solutions" alt="Typing SVG" />
   </a>
 
   <br/>
