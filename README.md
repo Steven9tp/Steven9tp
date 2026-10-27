@@ -101,13 +101,7 @@
 
 </div>
 
----
 
-### 📈 Gráfico de Actividad & Contribuciones
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=steven9tp&theme=tokyo-night&bg_color=0d1117&color=38bdf8&line=a855f7&point=10b981&hide_border=true" width="95%" alt="Steven9tp Contribution Graph" />
-</div>
 
 ---
 
